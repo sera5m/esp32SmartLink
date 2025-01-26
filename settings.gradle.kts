@@ -19,5 +19,6 @@ dependencyResolutionManagement {
     }
 }
 
-rootProject.name = "ESP32SmartLink"
+rootProject.name = "Esp32Smartlink2"
 include(":app")
+ 
